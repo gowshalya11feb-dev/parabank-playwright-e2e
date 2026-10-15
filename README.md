@@ -1,5 +1,7 @@
 # ParaBank Playwright E2E Tests
 
+![Playwright Tests](https://github.com/gowshalya11feb-dev/parabank-playwright-e2e/actions/workflows/playwright.yml/badge.svg)
+
 End-to-end test automation for an online banking web app, built with **Playwright** and **TypeScript**.
 
 The app under test is [ParaBank](https://parabank.parasoft.com), a public demo bank by Parasoft. The tests cover the main customer journeys: registration, login, opening an account and transferring funds.
